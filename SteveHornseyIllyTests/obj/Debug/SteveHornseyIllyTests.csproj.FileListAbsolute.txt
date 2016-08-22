@@ -1,0 +1,8 @@
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIllyTests\bin\Debug\SteveHornseyIllyTests.dll
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIllyTests\bin\Debug\SteveHornseyIllyTests.pdb
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIllyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIllyTests\bin\Debug\SteveHornseyIlly.exe
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIllyTests\bin\Debug\SteveHornseyIlly.pdb
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIllyTests\obj\Debug\SteveHornseyIllyTests.csprojResolveAssemblyReference.cache
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIllyTests\obj\Debug\SteveHornseyIllyTests.dll
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIllyTests\obj\Debug\SteveHornseyIllyTests.pdb

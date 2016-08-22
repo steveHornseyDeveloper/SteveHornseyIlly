@@ -1,0 +1,6 @@
+c:\users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIlly\bin\Debug\SteveHornseyIlly.exe.config
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIlly\bin\Debug\SteveHornseyIlly.exe
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIlly\bin\Debug\SteveHornseyIlly.pdb
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIlly\obj\Debug\SteveHornseyIlly.csprojResolveAssemblyReference.cache
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIlly\obj\Debug\SteveHornseyIlly.exe
+C:\Users\steph\documents\visual studio 2015\Projects\SteveHornseyIlly\SteveHornseyIlly\obj\Debug\SteveHornseyIlly.pdb
